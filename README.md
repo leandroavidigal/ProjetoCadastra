@@ -9,19 +9,16 @@ Este repositório demonstra domínio prático de Engenharia de Dados, cobrindo a
 
 👉 **Clique aqui para acessar o Streamlit:** [![Abrir no Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://leandroavidigal-projetocadastra.streamlit.app/)
 
-*(O deploy usa Streamlit Cloud; basta clicar e testar.)*
-
 ---
 
 ## 📐 Arquitetura
 
 
                                       ┌───────────────────────┐
-                                      │      CoinCap API      │
-                                      │   (resposta em JSON)  │
+                                      │       CoinCap API     │
                                       └────────────┬──────────┘
                                                    │
-                                        requests + tratamento JSON
+                                        requests + tratamento
                                                    │
                                                    ▼
                                       ┌────────────────────────┐
