@@ -1,4 +1,4 @@
-# 📊 Crypto Explorer Dashboard  
+# 📊 Crypto Explorer
 > **End-to-end data engineering pipeline + interactive analytics layer**
 
 Este repositório demonstra domínio prático de **engenharia de dados**, cobrindo todas as etapas — ingestão, modelagem, persistência, orquestração e visualização — em um contexto de mercado cripto. O pipeline coleta ativos e histórico de preços diretamente da **API CoinCap**, grava em banco relacional e disponibiliza um **dashboard Streamlit** para análise exploratória.
