@@ -96,21 +96,21 @@ Este repositório demonstra domínio prático de **engenharia de dados**, cobrin
 
 ## ⚙️ Execução local
 
-# 1. Clonar
+#### 1. Clonar
 git clone https://github.com/SEU_USUARIO/crypto-explorer.git
 cd crypto-explorer
 
-# 2. Variáveis de ambiente
+#### 2. Variáveis de ambiente
 cp .env.example .env
 # edite COINCAP_API_KEY e DB_URL
 
-# 3. Dependências
+#### 3. Dependências
 pip install -r requirements.txt
 
-# 4. Ingestão (cria/atualiza banco)
+#### 4. Ingestão (cria/atualiza banco)
 python main.py
 
-# 5. Dashboard
+#### 5. Dashboard
 streamlit run app.py
 
 ---
