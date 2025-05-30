@@ -101,8 +101,7 @@ git clone https://github.com/SEU_USUARIO/crypto-explorer.git
 cd crypto-explorer
 
 #### 2. Variáveis de ambiente
-cp .env.example .env
-# edite COINCAP_API_KEY e DB_URL
+cp .env.example .env #### edite COINCAP_API_KEY e DB_URL
 
 #### 3. Dependências
 pip install -r requirements.txt
