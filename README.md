@@ -7,6 +7,8 @@ Este repositório demonstra domínio prático de **engenharia de dados**, cobrin
 
 ## 🚀 Demo ao vivo
 
+👉 **Clique aqui para acessar o dashboard:**
+
 [![Abrir no Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://leandroavidigal-projetocadastra.streamlit.app/)
 
 *(O deploy usa Streamlit Cloud; basta clicar e testar.)*
